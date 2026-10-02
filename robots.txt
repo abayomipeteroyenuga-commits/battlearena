@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ethan-battle-arena.abayomipeteroyenuga.chatgpt.site/sitemap.xml
